@@ -55,9 +55,9 @@ require_once('TwitterAPIExchange.php');
 ```php
 $settings = array(
     'consumer_key' => "YOUR_CONSUMER_KEY",
-    'consumer_secret' => "YOUR_CONSUMER_SECRET"
+    'consumer_secret' => "YOUR_CONSUMER_SECRET",
     'oauth_access_token' => "YOUR_OAUTH_ACCESS_TOKEN",
-    'oauth_access_token_secret' => "YOUR_OAUTH_ACCESS_TOKEN_SECRET",
+    'oauth_access_token_secret' => "YOUR_OAUTH_ACCESS_TOKEN_SECRET"
 );
 ```
 
